@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mohan Pasalapudi</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
 <h1 align="center">Hi 👋, I'm Mohan Pasalapudi</h1>
 <h3 align="center">3rd Year Computer Science Engineering Student</h3>
 
@@ -38,34 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohan-pasalapudi&show_icons=true&locale=en" alt="mohan-pasalapudi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-pasalapudi&" alt="mohan-pasalapudi" /></p>
-
-
-</body>
-</html>
-<style>body {
-    font-family: 'Arial', sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f0f0f0; /* Set your desired background color */
-    animation: backgroundAnimation 10s infinite alternate; /* Set animation duration and iteration count */
-}
-
-/* Add this animation for background color change */
-@keyframes backgroundAnimation {
-    from {
-        background-color: #f0f0f0;
-    }
-    to {
-        background-color: #e0e0e0; /* Set your desired end background color */
-    }
-}
-
-/* Your existing styles go here */
-h1, h3, p {
-    text-align: center;
-    /* Add any additional styles for your content */
-}
-</style>
