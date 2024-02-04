@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan-pasalapudi" alt="mohan-pasalapudi" /></a> </p>
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **React,SpringBoot**
 
 - 📫 How to reach me **2100030406cseh@gmail.com**
 
