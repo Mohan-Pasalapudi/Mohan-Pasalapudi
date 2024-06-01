@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Pasalapudi</h1>
-<h3 align="center">3rd Year Computer Science Engineering Student</h3>
+<h3 align="center">B.Tech 3rd Year Computer Science Engineering Honors Student</h3>
 <h3 align="center">Collaboration is my superpower, let's build something epic together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-pasalapudi&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-pasalapudi" /> </p>
