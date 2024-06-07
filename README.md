@@ -1,8 +1,25 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohan+Pasalapudi!;" />
 </h1>
-<h3 align="center">B.Tech 3rd Year Computer Science and Engineering Honors Student</h3>
-<h3 align="center">Collaboration is my superpower, let's build something epic together.</h3>
+<h3 align="center">🚀 B.Tech 3rd Year Computer Science and Engineering Honors Student 🚀</h3>
+<h3 align="center">✨ Collaboration is my superpower, let's build something epic together. ✨</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellowgreen?style=for-the-badge&logo=javascript">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Collaboration-brightgreen?style=for-the-badge&logo=github">
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-lightgrey?style=for-the-badge&logo=github">
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-pasalapudi&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-pasalapudi" /> </p>
 
