@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohan+Pasalapudi!;" />
 </h1>
-<h3 align="center">🚀 B.Tech Final Year Computer Science and Engineering Honors Student 🚀</h3>
+<h3 align="center">🚀 B.Tech Computer Science and Engineering Honors Student 🚀</h3>
 <h3 align="center">✨ Collaboration is my superpower, let's build something epic together. ✨</h3>
 
 
